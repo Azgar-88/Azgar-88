@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Python and Database**
 
+- 💻 Aspiring to become a versatile developer, I'm enthusiastic about contributing to open-source projects and collaborating with like-minded individuals to create impactful software solutions.
+
 - 📫 How to reach me **hazarathazgar786@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
